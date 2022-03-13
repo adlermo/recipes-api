@@ -4,7 +4,7 @@
   "description": "Development API of recipes to yo-recipes App",
   "main": "recipes.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "npx nodemon app.js"
   },
   "author": "admo",
   "license": "GPL-3.0",
